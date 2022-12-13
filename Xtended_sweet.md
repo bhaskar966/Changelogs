@@ -8,7 +8,7 @@ Notes -
 - No MIUI cam
 - Aperture cam by default
 - Use this [GCam](https://www.apkmirror.com/apk/bsg/gcam-bsgs-google-camera-port-org-codeaurora-snapcam/camera-27-8-1-101-345618084-release/camera-8-1-101-345618084-3-android-apk-download/) for use all lenses.
-- Recommended Gapps is NikGapps.
+- Recommended Gapps is NikGapps for Vanilla Build.
 - OrangeFox recovery Recommended.
 
 Credits -
