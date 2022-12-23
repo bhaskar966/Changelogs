@@ -11,6 +11,7 @@
 
 Notes -
 - No MIUI cam.
+- No default rigntone set, set it after flashing.
 - Sleepy Kernel by default.
 - Recommended Gapps is NikGapps for Vanilla Build.
 - OrangeFox recovery Recommended.
