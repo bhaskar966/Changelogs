@@ -9,6 +9,7 @@
 - Added(/Updated) Aperture Camera from LineageOS (made all aux cams working)
 - Migrated vendor.camera.aux.packagelist to sdk overlay
 - Fixed compilation for QPR1 merge
+- Switch to sepolicy_vndr
 - some fixes here and there...
 
 
