@@ -1,4 +1,4 @@
-- Merge September Security patch (android-13.0.0_r4)
+- Merge December Security patch (android-13.0.0_r16)
 - Add black theme switch for dark mode options
 - Add back all Icon Packs, Fonts, etc
 - Add back our GameSpace
