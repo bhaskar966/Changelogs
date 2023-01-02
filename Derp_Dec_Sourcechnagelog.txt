@@ -1,0 +1,71 @@
+- Merge September Security patch (android-13.0.0_r4)
+- Add black theme switch for dark mode options
+- Add back all Icon Packs, Fonts, etc
+- Add back our GameSpace
+- Add PixelPropsUtils for unlimited photos
+- Add Smartspace port
+- Add Advanced reboot
+- Add Live-Display support
+- Add Swipe to screenshot
+- Enable Quick unlock by default 
+- Enable Color picker in ThemePicker
+- Make the volume dialog expandable
+- Add per-app volume
+- Allow to always show settings in volume dialog
+- Add reTicker options
+- Add Google Sound Search tile
+- Add dynamic VoLTE & VoWiFi icons
+- Allow using 4G icon instead LTE
+- Add Option to Display Data Disabled Indicator Icon
+- Add old style mobile data indicators switch
+- Allow disabling qs on secure lockscreen
+- Add Hide power menu on secure lockscreen switch
+- Add Screen off animations options
+- Implement burn-in protection for status/navbar
+- Allow to hide arrow for back gesture
+- Add Status network traffic options
+- Add toggle for Lockscreen Media Art
+- Add clock position options
+- Add clock AM/PM style options
+- Add clock seconds switch
+- Add battery icon options
+- Add brightness slider options
+- Add Live Volume Steps preference
+- Add Statusbar brightness control
+- Add Volume key cursor control
+- Add Flashlight blink on incoming calls options
+- Add Incall vibration options
+- Add Adaptive Playback aka Smart Pause
+- Add option to scramble pin layout when unlocking
+- Add Toast icon switch
+- Add Less boring heads up option
+- Add Option to add kill button to notification guts
+- Allow scheduling always on display
+- Add option to enable AOD on charging only
+- Add Volume Rocker Wake switch
+- Add Volume Long Press Skip Tracks switch
+- Allow to suppress notifications sound/vibration if screen is ON
+- Add notification counters switch 
+- Allow customizing footer text
+- Allow to disable qs footer warnings
+- Add Haptic Feedback to tiles switch
+- Add options for animations to quick settings tiles
+- Allow changing vibration duration
+- Show user's Google avatar on the settings homepage
+- DerpLauncher: Add DT2S toggle
+- DerpLauncher: Add Google Feed
+- DerpLauncher: Add optional Hotseat searchbar
+- DerpLauncher: Allow changing app suggestion settings
+- DerpLauncher: Allow disabling workspace edit
+- DerpLauncher: Add toggle for desktop and drawer labels
+- DerpLauncher: Add optional Google Lens scan button to recents
+- DerpLauncher: Add kill action to app shortcuts popup
+- DerpLauncher: Add uninstall button to system shortcuts
+- DerpLauncher: Ability to toggle themed icons for all apps
+- DerpLauncher: Implement LocalColorExtractor using monet theme engine
+- DerpLauncher: Enable local colors for popup menu items
+- DerpLauncher: Fix header protection height calculation
+- DerpLauncher: Fix all apps view not dismissing
+- DerpLauncher: Don't vibrate while scrolling
+
+Changelog Source : https://github.com/DerpFest-12/Updater-Stuff/blob/master/changelog_toco.txt
