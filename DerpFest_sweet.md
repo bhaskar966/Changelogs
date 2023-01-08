@@ -11,7 +11,13 @@
 - to get updates via OTA you need to chnage private DNS to dns.google or any which can load raw.githubcontent as this is blocked in Jio. Same applies if you cant see the chnagelog linked here.
 - source fixed that quick pull down issue - check the setting in gestures settings.
 
+Credits -
 
+Mr. Fox vt,dt
+
+itsshashanksp for kt
+
+@ItzBongBoy for testing
 
 
 || 2/1/23 ||
