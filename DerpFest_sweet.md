@@ -4,6 +4,7 @@
 
 **Notes**
 
+- clean flash recommended
 - Fixed low quality photo issue
 - Fixed Deep Sleep
 - OTA enabled, from now you get updates via OTA.
