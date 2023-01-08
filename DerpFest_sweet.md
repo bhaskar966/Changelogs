@@ -1,3 +1,19 @@
+|| 8/1/23 ||
+
+**[Click to see chnagelog](https://raw.githubusercontent.com/bhaskar966/OTA/main/DerpFest/changelog_sweet.txt)**
+
+**Notes**
+
+- Fixed low quality photo issue
+- Fixed Deep Sleep
+- OTA enabled, from now you get updates via OTA.
+- There is a bug which shows update availble even if you are in latest version; just ignore that it would not download automatically.
+- to get updates via OTA you need to chnage private DNS to dns.google or any which can load raw.githubcontent as this is blocked in Jio. Same applies if you cant see the chnagelog linked here.
+- source fixed that quick pull down issue - check the setting in gestures settings.
+
+
+
+
 || 2/1/23 ||
 
 ***Source Side***
