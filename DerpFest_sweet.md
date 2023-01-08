@@ -1,6 +1,6 @@
 || 8/1/23 ||
 
-**[Click to see chnagelog](https://raw.githubusercontent.com/bhaskar966/OTA/main/DerpFest/changelog_sweet.txt)**
+**[Click to see changelog](https://raw.githubusercontent.com/bhaskar966/OTA/main/DerpFest/changelog_sweet.txt)**
 
 **Notes**
 
