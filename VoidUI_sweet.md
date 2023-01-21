@@ -34,6 +34,29 @@
 - sweet: Update the s5kgw3 camera libraries from MIUI V13.0.9.0.SKFINXM
 - sweet: Drop xiaomi touchfeature hal
 
+***Source Changelog***
+
+
+Based on QPR1 Base | android-13.0.0_r23 | January Security Patch
+
+Entire ROM moved cleanly to new QPR1 Release base
+Based on latest Pixel Experience Plus
+Also Added part of our custom features:
+
+
+- Cutout force full screen 
+- Custom QS Tiles: Data Switch | Auto Brightness | CPU Info | FPS Info
+- GameProps
+- GameSpace
+- ReTicker
+- Full Screen (Immersive) navigation without pill
+- Screen Recorder Customizations
+- Updated external_fastrpc to latest version
+- kryo785 architecture support
+- Various system side optimizations and fixes
+- And more...
+
+
 Notes -
 - No MIUI cam.
 - Aperture cam by default.
