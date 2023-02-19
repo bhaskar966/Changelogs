@@ -1,3 +1,25 @@
+|| 19/2/23 ||
+
+**[Click to see full changelog](https://raw.githubusercontent.com/bhaskar966/OTA/main/DerpFest/changelog_sweet.txt)**
+
+**Notes**
+
+- No MIUI cam
+- Aperture working fine
+- OTA enabled, existing user will get OTA.
+- There is a bug which shows update availble even if you are in latest version; just ignore that it would not download automatically.
+- to get updates via OTA you need to chnage private DNS to dns.google or any which can load raw.githubcontent as this is blocked by Jio. Same applies if you cant see the chnagelog linked here.
+
+Credits -
+
+Mr. Fox vt,dt
+
+vantom for kt
+
+@ItzBongBoy and @DA_R_T for testing
+
+- --
+
 || 7/1/23 ||
 
 **[Click to see changelog](https://raw.githubusercontent.com/bhaskar966/OTA/main/DerpFest/changelog_sweet.txt)**
