@@ -4,6 +4,7 @@
 
 **Notes**
 
+- If Phone(Dialler) app shows "This device isn't supported and phone calls may not work correctly." then install [this version of Phone by Google](https://www.apkmirror.com/apk/google-inc/google-phone/google-phone-98-0-508430701-release/phone-by-google-98-0-508430701-android-apk-download/).
 - No MIUI cam
 - Aperture working fine
 - OTA enabled, existing user will get OTA.
