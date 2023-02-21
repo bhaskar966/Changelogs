@@ -180,6 +180,7 @@ Short changelog:
 
 **Notes -**
 
+- Don't use refresh rate profile, it's crashing.
 - No MIUI cam.
 - Aperture cam by default.
 - Sleepy Kernel by default.
