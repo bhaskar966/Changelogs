@@ -22,7 +22,7 @@ sweet: Switch to vantom and playground 16 clang
 
 sweet: overlay: Adjust status bar round corner
 
-sweet: Derp it 
+sweet: VoidUi BringUp
 
 sweet : Move to common libhidl
 
@@ -84,7 +84,7 @@ sm6150-common: media: Fix VTS issue.
 
 sm6150-common: sepolicy: Address some denials
 
-sm6150-common : Derp it 
+sm6150-common : VoidUi BringUp
 
 sm6150-common : Switch to Vantom Kernel and playground clang
 
