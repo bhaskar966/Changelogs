@@ -2,6 +2,19 @@
 
 Switch to new Tree.
 
+Notes -
+- MIUI cam Included .
+- No Dolby Atmos.
+  Will be added from next build.
+- Vantom Kernel by default.
+- OrangeFox recovery Recommended.
+
+Credits -
+
+Mr. Fox vt,dt
+
+vantom for kt
+
 || 25/2/23 ||
 
 ***Device Changelog :-***
