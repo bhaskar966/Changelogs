@@ -1,3 +1,29 @@
+|| 29/5/23 ||
+
+**[Click to see full changelog](https://raw.githubusercontent.com/bhaskar966/OTA/main/DerpFest/changelog_sweet.txt)**
+
+**Notes**
+
+- Clean flash required, *existing users will get OTA update but please clean flash after downloaing.*
+- Flash latest fw for your region.
+- Leica cam added
+- Vantom Kernel by default.
+
+
+Credits -
+
+Mr. Fox vt,dt
+
+vantom for kt
+
+@nutelladev for help to fic Leica cam.
+
+@JYR_RC for Lecia cam.
+
+@Coolaslikeice for testing
+
+- --
+
 || 19/2/23 ||
 
 **[Click to see full changelog](https://raw.githubusercontent.com/bhaskar966/OTA/main/DerpFest/changelog_sweet.txt)**
