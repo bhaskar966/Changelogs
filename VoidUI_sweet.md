@@ -1,3 +1,117 @@
+
+
+|| 31/3/23 ||
+
+***Device Side***
+
+sweet : overlay: Increase status bar top padding
+
+sweet: Build missing omx libs
+
+sweet: Add newly added blobs to public.libraries.txt
+
+sweet: Add some missing blobs
+
+sweet: Remove discard command tuning
+
+sweet: overlay: Disable NearbyMessagingService
+
+sweet: overlay: Disable DiscoveryService
+
+sweet: Set correct manufacturer
+
+sweet: overlay: Disable subtle tick vibration when revealing shelf
+
+sweet: Update Adreno to LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0
+
+sweet: Update DPM, IMS, and RIL system blobs
+
+sweet: Import missing blobs
+
+And many more underwood changes
+
+
+***Source Side***
+
+March - 
+
+GameSpace
+
+* Own Updater & OTA updates
+
+* Included ART fixes for best device CPU support & Kryo585 optimizations
+
+* Per-app volume control
+
+* Full Screen Navigation mode
+
+* Full working AOD & Smartspace
+
+* GameProps with hides for popular games
+
+* Custom QS Tiles
+
+* Burn-in protection for status/navbar
+
+* Latest Crowdin tranlsations for all system customizations
+
+* Ignore window secure flags (Can make screenshots in any app)
+
+April - 
+
+* Added UMO turbulence noise and surface ripple for Media Player
+
+* Added support of scheduling always on display 
+* Added Optimized Monet Engine customizations support:
+- Theme styles selection
+- Color Source selection
+- Accent Colors selection
+- Accent Background Colors selection
+- Luminance and Chroma values tunings and ability to apply them for Background Tint
+* Added support of Black Theme
+[Warning! It requires to do not disable "Gesture Indicator" option to work correctly
+P.s Works fine with Immersive navigation option]
+* Fix issues with GameSpace Screen Recording option
+* Includes PE Plus April patch fixes and Gapps update
+
+May - 
+
+* Update to May Security patch & Gapps
+* Allow disabling refresh rate lowering in battery saver
+* Various Performance optimizations
+* Reduce screenshot dismiss delay to 3 seconds
+* Add toggle for 3-button navbar inversion
+* Update Aperture to latest available version
+
+* Reworked and improved GameSpace to latest available version & fix visual bugs
+* Update Aperture to latest available version
+* Add support of showing Data usage in QS Footer
+* Fix Updater to show the correct percentage during package installation 
+* Additional improvements for Cameras support systemwide
+* Add camera & flashlight buttons in lockscreen by default
+* Update Qualcomm interfaces to latest CLO tag, import CRC buffer calculation backend
+* Update Qualcomm display repos to latest CLO tag
+* Enable Java R8 optimizations for system_server and SystemUI
+* Import latest Crowdin Translations systemwide
+
+And many more changes...
+
+
+*Credits - *
+
+Mr. Fox vt,dt
+
+vantom for kt
+
+@nutelladev for help to fic Leica cam.
+
+@JYR_RC for Lecia cam.
+
+@Coolaslikeice for testing
+
+
+
+
 || 21/2/23 ||
 
 ***Device Changelog :-***
@@ -186,7 +300,7 @@ Short changelog:
 - Sleepy Kernel by default.
 - OrangeFox recovery Recommended.
 
-*Credits - *
+*Credits -*
 
 Mr. Fox vt,dt
 
