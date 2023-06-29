@@ -1,4 +1,182 @@
+|| 28/6/23 ||
 
+***Device Side***
+
+sweet: Checkout audio configs from MIUI 13
+
+sweet: gps: Update to LA.UM.9.1.r1-12900-SMxxx0.0
+
+sweet: Reduce the list of pinned acdb files
+
+sweet: Override doze mode support
+
+sweet: sepolicy: Label Spi IR node
+
+sweet: overlay: Limit screen recorder to 90fps
+
+sweet: overlay: SystemUI: increase front camera ring size
+
+sweet: sepolicy: Label wakeup node
+
+sweet: overlay: Disable battery light settings
+
+sweet: Update blobs from sweet V14.0.3.0.TKFEUXM
+
+sweet: Drop Lineage livedisplay
+
+sweet: Convert xiaomi_framework_compatibility_matrix.xml into device_framework_matrix.xml
+
+sweet: overlay: Update vibration patterns
+
+sweet: Update Audio HIDL to 7.1
+
+sweet: Drop support for F2FS compressions and garbage collector
+
+sweet: Build missing bluetooth libs
+
+sweet: Remove hotword permission and whitelist xml files
+
+sweet: overlay-voltage: Reduce no. of max visible notification icons
+
+sweet: Disable continuous transaction tracing on all build types
+
+Revert "sm6150-common: Enable backpressure propagation in SF"
+
+sweet: Move BT profiles props to vendor
+
+sweet: Clean up sepolicy
+
+sweet : sepolicy: Label certain Xiaomi specific property labels
+
+sweet : sepolicy: Allow rild to read default_prop
+
+sweet: sepolicy: fix wifi denial
+
+sweet: sepolicy: add ro.hardware.chipname prop
+
+sweet: vintf: Declare hals
+
+sweet: Remove duplicate mixer paths
+
+sweet: overlay: Adjust status bar paddings
+
+sweet: Don't latch unsignal buffers
+
+sweet: Disable Skia tracing by default
+
+sweet: Remove max ZRAM compression streams setting
+
+sweet: sepolicy: Remove no longer existing properties
+
+sweet: Fix IMS symlink as per dynamic partitions
+
+Revert "sm6150-common: Force restorecon for /mnt/vendor/persist"
+
+sweet: Set no_sehash_xattr on /mnt/vendor/persist
+
+sweet: Add hotword enrollment blobs from vayu
+
+sweet: Add missing DRM dependencies
+
+sweet : Enable Camera Vendor Tags for Xiaomi devices
+
+sweet : Inharit Pixel Launcher Extended(PLE)
+
+sweet : nuke Priv-app permissions
+
+***Source Side***
+
+- SystemUI: Adjust qqs top margin dimension 
+- DisplayModeDirector: Allow to enforce user selected resolution 
+- Import support of custom screen resolution setting for supported devices
+- Import latest Crowdin Translations
+- overlay: Enable Quick Launch V2 in Pixel Launcher
+- Revert "SystemUI: Adjust qqs top margin dimension
+- hardware/interfaces: Update HIDL overrideFormat from HAL 
+- frameworks/av: Camera: Import Xiaomi BufferProducerDetachListener changes 
+- frameworks/native:
+* Native: Camera: Import Release Slot Xiaomi Changes
+* Native: ProducerListener: Import ON_BUFFER_DETACHED Changes
+- Frameworks/base: Camera2: Notify fps as Session Based Parameter
+- Frameworks/av changes:
+* Camera: Flush Improvements - Result drain optimization
+* libstagefright: Support YVU420SemiPlanar camera format
+* camera: Don't segfault if we get a NULL parameter
+* camera2 vndk: Improve error handling
+* camera: Workaround for GCC-compiled HAL3 drivers
+- frameworks_av: CAMX: CHI: Added support for handling jpeg debug data.
+- Frameworks/base:
+* camera: Allow selected camera apps to skip unconfigure
+* Camera: Don't throw exceptions when value pairs have spaces in them
+* Allow sending vendor- or device-specific commands to the camera HAL.
+* Fix Photosphere/Camera FCs 
+* CameraManager: Fixup exposing aux camera to apps 
+* Camera: Ignore torch status update for aux or compsite camera
+* Guard in short-circuit evaluations for stringSplit methods.
+* Camera: Extend face detection
+* Camera: Clearing exception for Extended Face
+* camera: Support exposing aux camera to apps
+* Add config overlay to force enable multi resolution for camera
+* CameraManager: HAX for depth sensor on Miui Camera [1/2]
+* Camera: Don't crash when trying to disable shutter sound
+* Camera: Fix size list parceling
+* CameraManager: Handle NPE with ActivityThread.currentOpPackageName()
+* Camera: Avoid possible NPE after extension session configuration
+* Camera: Prevent crash with prebuilt camera metadata
+- Frameworks/av:
+* HACK: libcameraservice: Make system cameras available to all camera apps 
+* Camera: Add support for manual 3A.
+* libstagefright: Allow HFR-60 in HAL-3 recording 
+* libcameraservice: HAX for depth sensor on Miui Camera [2/2]
+frameworks/base: Import Xiaomi Image Tags defenitions
+frameworks/av: Import Xiaomi Image Tags defenitions
+- Big rework of PixelPropsUtils:
+* Drop previous GameProps
+* Imported updated GameProps with better code to apply props for games and apps
+* Spoof only walleye fingerprint for Play Store for CTS, show correct device itself for apps
+* Switch some services to Pixel 7 Pro
+* Hide Call of Duty, Black Desert, Fifa, Asphalt 9 to ROG6
+* Allow spoofing device model for Netflix
+* Add Gameprops for Battlegrounds Mobile India (BGMI) (Smooth-Extreme to HDR-Extreme)
+Changes available in Github
+ (https://github.com/VoidUI-Tiramisu/frameworks_base/commits/aosp-13)- Update frameworks crowdin translations to latest version
+- Settings: Enable copying content for IMEI2 
+- PixelPropsUtils: Switch Honor of Kings hide to Xiaomi 13 Pro (China) (2210132C)
+- Resync with latest PE changes (QPR2)
+* Settings: Properly set Wi-Fi Privacy spinner initial state
+* Settings | Frameworks | Devicesettings - Automatic translation import 
+* vendor/aosp: Fix now playing configs
+* Frameworks/base:
+Revert "SystemUI: Only apply tuning changes when the fragment is attached"
+SystemUI: Avoid using null Context in onTuningChanged() 
+fixup! Configurable 0, 90, 180 and 270 degree rotation 
+Request correct rendering type for EGL config
+SystemUI: React to PrivacyConfig changes properly
+- Minor fixes and reworks
+- Frameworks/base:
+* Camera: Avoid holding locks during advanced extension initialization 
+* Camera: Always release the extension session after configuration
+* Camera: Release advanced extension references 
+* Camera: Quit extension handler thread during release
+* Fix the memory leak during high speed recording
+- Frameworks/av:
+* libcameraservice: Import Xiaomi Exif Camera Modifications
+* libcameraservice: Import Xiaomi DistortionMapper Modifications
+
+   And many more...
+
+
+*Credits - *
+
+Mr. Fox vt,dt
+
+vantom for kt
+
+@JYR_RC for Lecia cam.
+
+@virtualord for testing
+
+- --
 
 || 31/3/23 ||
 
