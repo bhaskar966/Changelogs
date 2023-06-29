@@ -172,6 +172,8 @@ Mr. Fox vt,dt
 
 vantom for kt
 
+[Team Files](https://telegram.me/modulesrepo) for PLE.
+
 @JYR_RC for Lecia cam.
 
 @virtualord for testing
