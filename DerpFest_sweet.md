@@ -1,3 +1,28 @@
+|| 29/6/23 ||
+
+**[Click to see full changelog](https://raw.githubusercontent.com/bhaskar966/OTA/main/DerpFest/changelog_sweet.txt)**
+
+**Notes**
+
+- Clean flash is not mandatory; if you face issues then clean flash
+- existing users will get an OTA update
+- Leica Cam added
+- Dolby Atmos Addd
+- Vantom Kernel by default.
+
+
+Credits -
+
+Mr. Fox vt,dt
+
+Vantom for kt
+
+@JYR_RC for Lecia cam.
+
+@Coolaslikeice and @virtualord for testing
+
+- --
+
 || 29/5/23 ||
 
 **[Click to see full changelog](https://raw.githubusercontent.com/bhaskar966/OTA/main/DerpFest/changelog_sweet.txt)**
