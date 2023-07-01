@@ -4,11 +4,12 @@
 
 **Notes**
 
-- Clean flash is not mandatory; if you face issues then clean flash
+- Clean flash is not mandatory; if you face issues then clean flash the rom along with fw of your region.
 - existing users will get an OTA update
 - Leica Cam added
 - Dolby Atmos Addd
 - Vantom Kernel by default.
+- OrangeFox Recovery Recommend
 
 
 Credits -
