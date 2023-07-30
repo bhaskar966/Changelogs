@@ -1,15 +1,15 @@
-|| 29/6/23 ||
+|| 30/7/23 ||
 
 **[Click to see full changelog](https://raw.githubusercontent.com/bhaskar966/OTA/main/DerpFest/changelog_sweet.txt)**
 
 **Notes**
 
-- Clean flash is not mandatory; if you face issues then clean flash the rom along with fw of your region.
-- existing users will get an OTA update
+- clean flash recommended
 - Leica Cam added
 - Dolby Atmos Addd
-- Vantom Kernel by default.
+- Vantom Kernel by default
 - OrangeFox Recovery Recommend
+- flash the latest fw of your region.
 
 
 Credits -
@@ -20,122 +20,4 @@ Vantom for kt
 
 @JYR_RC for Lecia cam.
 
-@Coolaslikeice and @virtualord for testing
-
-- --
-
-|| 29/5/23 ||
-
-**[Click to see full changelog](https://raw.githubusercontent.com/bhaskar966/OTA/main/DerpFest/changelog_sweet.txt)**
-
-**Notes**
-
-- Clean flash required, *existing users will get OTA update but please clean flash after downloaing.*
-- Flash latest fw for your region.
-- Leica cam added
-- Vantom Kernel by default.
-
-
-Credits -
-
-Mr. Fox vt,dt
-
-vantom for kt
-
-@nutelladev for help to fic Leica cam.
-
-@JYR_RC for Lecia cam.
-
 @Coolaslikeice for testing
-
-- --
-
-|| 19/2/23 ||
-
-**[Click to see full changelog](https://raw.githubusercontent.com/bhaskar966/OTA/main/DerpFest/changelog_sweet.txt)**
-
-**Notes**
-
-- If Phone(Dialler) app shows "This device isn't supported and phone calls may not work correctly." then install [this version of Phone by Google](https://www.apkmirror.com/apk/google-inc/google-phone/google-phone-98-0-508430701-release/phone-by-google-98-0-508430701-android-apk-download/).
-- No MIUI cam
-- Aperture working fine
-- OTA enabled, existing user will get OTA.
-- There is a bug which shows update availble even if you are in latest version; just ignore that it would not download automatically.
-- to get updates via OTA you need to chnage private DNS to dns.google or any which can load raw.githubcontent as this is blocked by Jio. Same applies if you cant see the chnagelog linked here.
-
-Credits -
-
-Mr. Fox vt,dt
-
-vantom for kt
-
-@ItzBongBoy and @DA_R_T for testing
-
-- --
-
-|| 7/1/23 ||
-
-**[Click to see changelog](https://raw.githubusercontent.com/bhaskar966/OTA/main/DerpFest/changelog_sweet.txt)**
-
-**Notes**
-
-- clean flash recommended
-- Fixed low quality photo issue
-- Fixed Deep Sleep
-- Jan SP
-- No MIUI cam
-- Aperture working fine
-- OTA enabled, from now you get updates via OTA.
-- There is a bug which shows update availble even if you are in latest version; just ignore that it would not download automatically.
-- to get updates via OTA you need to chnage private DNS to dns.google or any which can load raw.githubcontent as this is blocked in Jio. Same applies if you cant see the chnagelog linked here.
-- source fixed that quick pull down issue - check the setting in gestures settings.
-
-Credits -
-
-Mr. Fox vt,dt
-
-itsshashanksp for kt
-
-@ItzBongBoy for testing
-
-- --
-
-
-|| 2/1/23 ||
-
-***Source Side***
-- Switch to jemalloc memory allocator
-- debuggerd: Disable scudo usage
-- libcameraservice: Add support for miui camera mode
-- DNM Revert "Camera: Add support for readout timestamp"
-- Camera: Miscellaneous fixes in QDataCallback and binder death scenarios.
-  - CameraService: Fix deadlock in binder death cleanup
-  - Camera: CameraHardwareInterface: Releasing mHIDLMemoryMapLock in QdataCallback
-  - Camera:CameraService: Added lock on mHIDLMemPoolId in QDataCallback
-- --
-
-***Device Side***
-- Initial Build
-- Added Leica(MIUI) Camera
-- Added OnePlus Dolby Atoms
-- Set preferred refresh rate on keyguard to 60
-- Import OzoProcessing from MIUI Alioth 13.0.7.0 EU
-- Remove audio postprocess effects and add OZO Processing
-- Add Missing Media Codecs
-- --
-
-
-Notes -
-- Added MIUI cam.
-- Sleepy Kernel by default.
-- OrangeFox recovery Recommended.
-
-Credits -
-
-Mr. Fox vt,dt and MIUI Cam
-
-itsshashanksp for kt
-
-@JYR_RC fox giving fixes to implement MIUI cam.
-
-@Dolgoson for testing
