@@ -37,7 +37,7 @@
 **Notes**
 
 - Clean flash mandatory as this is the initial build
-- Use BitGapps core in vanilla
+- Use BitGapps Omni in vanilla
 - Use this [GCam](https://www.apkmirror.com/apk/bsg/gcam-bsgs-google-camera-port-org-codeaurora-snapcam/camera-27-8-1-101-345618084-release/camera-8-1-101-345618084-3-android-apk-download/) for use all lenses. If you any other then let me know in the telegram group.
 - Use OrangeFox Recovery, Recommended version is 11.1_3
 - Flash latest fw of your region 
