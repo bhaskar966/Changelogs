@@ -41,6 +41,7 @@
 - Use this [GCam](https://www.apkmirror.com/apk/bsg/gcam-bsgs-google-camera-port-org-codeaurora-snapcam/camera-27-8-1-101-345618084-release/camera-8-1-101-345618084-3-android-apk-download/) for use all lenses. If you any other then let me know in the telegram group.
 - Use OrangeFox Recovery, Recommended version is 11.1_3
 - Aperture cam added with all lens support
+- Issue: Owner(User) Section in settings is crashing, seems like a source issue. So, don't report that. ~ It's minior issue, this wouldn't affect your daily uses.
 
 
 **Credits**
