@@ -1,3 +1,28 @@
+|| 7/9/23 ||
+
+**Device Changelog --**
+- Initial Official relase 
+- sweet: set TARGET_2ND_ARCH_VARIANT to armv8-2a
+- sweet: Add vendorsetup.sh
+- sweet: switch to r487747c clang
+
+**Notes --**
+
+- Clean flash is recommended as this is the initial Official build
+- Use BitGapps core for vanilla
+- Use OrangeFox Recovery, Recommended version is 11.1_3
+- Aperture cam added with all lens support
+- Sleepy kernel by default
+
+
+**Credits**
+
+@Mr. Fox vt,dt
+
+@itsshashanksp for kt
+
+- --
+
 **Device Changelog**
 
 - sweet: change TARGET_KERNEL_CONFIG to sweet_deconfig
